@@ -1,7 +1,6 @@
 ### Hi there 👋[![trophy](https://github-profile-trophy.vercel.app/?username=Mirai301&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=social">
-<img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=social">
+<img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=social"><img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=social">
 
 <!--
 **Mirai301/Mirai301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
