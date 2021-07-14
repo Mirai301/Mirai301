@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=social"> <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=social">
 
-<img src="https://user-images.githubusercontent.com/53959334/125544735-7a92ae4d-7c51-47bb-898f-ffb55d46ce0a.png"><img src="https://user-images.githubusercontent.com/53959334/125544573-ea56c2fe-8394-4d51-980d-5f929effa98f.png">
+<img src="https://user-images.githubusercontent.com/53959334/125544735-7a92ae4d-7c51-47bb-898f-ffb55d46ce0a.png">
 
 <!--
 **Mirai301/Mirai301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
