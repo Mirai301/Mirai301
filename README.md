@@ -1,4 +1,4 @@
-### Hi there 👋
+### whoami 🤔
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mirai301&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://img.shields.io/badge/-ArchLinux-1793D1.svg?logo=archlinux&style=plastic"> <img src="https://img.shields.io/badge/-Linux-add8e6.svg?logo=linux&style=plastic"> <img src="https://img.shields.io/badge/-Python-ffff00.svg?logo=python&style=plastic"> <img src="https://img.shields.io/badge/-PHP-a9a9a9.svg?logo=php&style=plastic"> <img src="https://img.shields.io/badge/-HTML5-fff0f5.svg?logo=html5&style=plastic"> <img src="https://img.shields.io/badge/-CSS3-ffa500.svg?logo=css3&style=plastic"> <img src="https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazon-aws&style=plastic"> <img src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=plastic"> <img src="https://img.shields.io/badge/-Docker-d3d3d3.svg?logo=docker&style=plastic"> <img src="https://img.shields.io/badge/-Node.js-008080.svg?logo=node.js&style=plastic">
