@@ -1,4 +1,20 @@
-### whoami 🤔
+## whoami 🤔  
+### 保有資格  
+LPIC Level 1  
+  
+### 今年度の目標   
+OSCP/OSEPの取得  
+  
+### 参加  
+CyberAgent インフラエンジニア向け クラウド技術体験型インターンシップ 仮想マシン編  
+  
+### ブログ  
+https://minimalist2001.hatenablog.com/  
+  
+### 勉強会参加ログ  
+https://connpass.com/user/Minimal_Mirai/  
+  
+### その他
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mirai301&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://img.shields.io/badge/-ArchLinux-1793D1.svg?logo=archlinux&style=plastic"> <img src="https://img.shields.io/badge/-Linux-add8e6.svg?logo=linux&style=plastic"> <img src="https://img.shields.io/badge/-Python-ffff00.svg?logo=python&style=plastic"> <img src="https://img.shields.io/badge/-PHP-a9a9a9.svg?logo=php&style=plastic"> <img src="https://img.shields.io/badge/-HTML5-fff0f5.svg?logo=html5&style=plastic"> <img src="https://img.shields.io/badge/-CSS3-ffa500.svg?logo=css3&style=plastic"> <img src="https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazon-aws&style=plastic"> <img src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=plastic"> <img src="https://img.shields.io/badge/-Powershell-5391FE.svg?logo=powershell&style=plastic">
