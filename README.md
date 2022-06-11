@@ -3,8 +3,12 @@
 LPIC Level 1  
   
 ### 今年度の目標   
+FE/APの取得  
 OSCP/OSEPの取得  
+LPIC Level2の取得  
   
+ルーターのゼロデイ脆弱性の発見, CVEの取得  
+
 ### 参加  
 CyberAgent インフラエンジニア向け クラウド技術体験型インターンシップ 仮想マシン編  
   
