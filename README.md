@@ -13,9 +13,10 @@ LPIC Level2の取得
 
 ### インターン参加  
 CyberAgent インフラエンジニア向け クラウド技術体験型インターンシップ 仮想マシン編  
+株式会社FFRI 実践的手法を用いたIoT機器ペネトレーションテスト  
   
 ### ブログ  
-https://minimalist2001.hatenablog.com/  
+みらログ - https://minimalist2001.hatenablog.com/  
   
 ### 勉強会参加ログ  
 https://connpass.com/user/Minimal_Mirai/  
