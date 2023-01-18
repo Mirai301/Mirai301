@@ -17,7 +17,7 @@ LPIC Level2の取得
 競プロ/コーディングスキル,及び開発スキルの向上  
   
 ### ブログ  
-みらログ - https://minimalist2001.hatenablog.com/  
+みログ - https://minimalist2001.hatenablog.com/  
   
 ### 勉強会参加ログ  
 https://connpass.com/user/Minimal_Mirai/  
